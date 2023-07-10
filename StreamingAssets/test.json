@@ -1,0 +1,18 @@
+{
+    "Items": [
+        {
+            "name": "korn",
+            "imgPath": "-",
+            "vdoPath": "-",
+            "description": "-",
+            "qrCodePath": "-"
+        },
+        {
+            "name": "owo",
+            "imgPath": "-",
+            "vdoPath": "-",
+            "description": "-",
+            "qrCodePath": "-"
+        }
+    ]
+}
